@@ -17,6 +17,6 @@ centralize member management and event documentation.
 
 ## Screenshots
 ![Welcome](first-page.png)
-![Login](login.png)
+![Login](login-page.png)
 ![Registration](signup-page.png)
 ![Gallery](homepage.png)
